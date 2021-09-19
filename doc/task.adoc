@@ -1,0 +1,8 @@
+= Create test for you mock exam (basics' module)
+
+I created the methods (i.e functions!) into separate classes just to practice the structure of the tests as well
+
+It was also a task:
+
+- adding to the method the not null condition!
+- it was also a task to declare the length of the arrays, that is bigger than 0!
